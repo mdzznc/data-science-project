@@ -1,0 +1,137 @@
+1600002286860	geckodriver	INFO	Listening on 127.0.0.1:64290
+1600002289884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHENGX~1\\AppData\\Local\\Temp\\rust_mozprofilepVExvs"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600002291978	Marionette	INFO	Listening on port 64300
+1600002291996	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.glassdoor.com/jobs-ux-app/static/js/gd-jx-core-bottom-en-CA.js?v=f7237b3s8b, line 1: ReferenceError: separatePreferencesTreatment is not defined
+JavaScript error: https://www.glassdoor.com/jobs-ux-app/static/js/gd-jx-core-bottom-en-CA.js?v=f7237b3s8b, line 1: ReferenceError: separatePreferencesTreatment is not defined
+1600003505241	Marionette	INFO	Stopped listening on port 64300
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHENGX~1\\AppData\\Local\\Temp\\rust_mozprofileljHWLo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600003475222	Marionette	INFO	Listening on port 65184
+1600003475369	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Zheng Xie\AppData\Local\Temp\rust_mozprofileljHWLo\protections.sqlite
+1600003480871	Marionette	INFO	Stopped listening on port 65184
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600003496533	geckodriver	INFO	Listening on 127.0.0.1:65272
+1600003499550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHENGX~1\\AppData\\Local\\Temp\\rust_mozprofileaZ4Rjj"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600003501267	Marionette	INFO	Listening on port 65281
+1600003501556	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.glassdoor.com/jobs-ux-app/static/js/gd-jx-core-bottom-en-CA.js?v=f7237b3s8b, line 1: ReferenceError: separatePreferencesTreatment is not defined
+JavaScript error: https://www.glassdoor.com/jobs-ux-app/static/js/gd-jx-core-bottom-en-CA.js?v=f7237b3s8b, line 1: ReferenceError: separatePreferencesTreatment is not defined
+JavaScript error: https://www.glassdoor.com/jobs-ux-app/static/js/gd-jx-core-bottom-en-CA.js?v=f7237b3s8b, line 1: ReferenceError: separatePreferencesTreatment is not defined
+JavaScript error: https://www.glassdoor.com/jobs-ux-app/static/js/gd-jx-core-bottom-en-CA.js?v=f7237b3s8b, line 1: ReferenceError: separatePreferencesTreatment is not defined
+1600026871334	Marionette	INFO	Stopped listening on port 65281
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600026921291	geckodriver	INFO	Listening on 127.0.0.1:53145
+1600026924327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHENGX~1\\AppData\\Local\\Temp\\rust_mozprofileLqxBiS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600026926064	Marionette	INFO	Listening on port 53155
+1600026926333	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.glassdoor.com/jobs-ux-app/static/js/gd-jx-core-bottom-en-CA.js?v=f7237b3s8b, line 1: ReferenceError: separatePreferencesTreatment is not defined
+JavaScript error: https://www.glassdoor.com/jobs-ux-app/static/js/gd-jx-core-bottom-en-CA.js?v=f7237b3s8b, line 1: ReferenceError: separatePreferencesTreatment is not defined
+JavaScript error: https://www.glassdoor.com/jobs-ux-app/static/js/gd-jx-core-bottom-en-CA.js?v=f7237b3s8b, line 1: ReferenceError: separatePreferencesTreatment is not defined
+1600057547296	Marionette	INFO	Stopped listening on port 53155
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600057549590	geckodriver	INFO	Listening on 127.0.0.1:64963
+1600057552624	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHENGX~1\\AppData\\Local\\Temp\\rust_mozprofileDZoif3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600057554399	Marionette	INFO	Listening on port 64972
+1600057554631	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.google.ca/adsense/search/async-ads.js, line 39: uncaught exception: google.ads.search.Ads: a is null
+JavaScript error: https://www.google.ca/adsense/search/async-ads.js, line 39: uncaught exception: google.ads.search.Ads: a is null
+1600058078741	Marionette	INFO	Stopped listening on port 64972
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600058217984	geckodriver	INFO	Listening on 127.0.0.1:65314
+1600058221013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHENGX~1\\AppData\\Local\\Temp\\rust_mozprofileMXvAa5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600058222748	Marionette	INFO	Listening on port 65324
+1600058223019	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1600058752155	Marionette	INFO	Stopped listening on port 65324
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600058752818	geckodriver	INFO	Listening on 127.0.0.1:65506
+1600058755823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHENGX~1\\AppData\\Local\\Temp\\rust_mozprofile4jjPBc"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600058757573	Marionette	INFO	Listening on port 65516
+1600058757832	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.glassdoor.com/jobs-ux-app/static/js/gd-jx-core-bottom-en-CA.js?v=f7237b3s8b, line 1: ReferenceError: separatePreferencesTreatment is not defined
+JavaScript error: https://www.glassdoor.com/jobs-ux-app/static/js/gd-jx-core-bottom-en-CA.js?v=f7237b3s8b, line 1: ReferenceError: separatePreferencesTreatment is not defined
+1600058810979	Marionette	INFO	Stopped listening on port 65516
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600058816614	geckodriver	INFO	Listening on 127.0.0.1:49254
+1600058819640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHENGX~1\\AppData\\Local\\Temp\\rust_mozprofilea5xfUv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600058821407	Marionette	INFO	Listening on port 49263
+1600058821646	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.glassdoor.com/jobs-ux-app/static/js/gd-jx-core-bottom-en-CA.js?v=f7237b3s8b, line 1: ReferenceError: separatePreferencesTreatment is not defined
+JavaScript error: https://www.glassdoor.com/jobs-ux-app/static/js/gd-jx-core-bottom-en-CA.js?v=f7237b3s8b, line 1: ReferenceError: separatePreferencesTreatment is not defined
+JavaScript error: https://www.glassdoor.com/jobs-ux-app/static/js/gd-jx-core-bottom-en-CA.js?v=f7237b3s8b, line 1: ReferenceError: separatePreferencesTreatment is not defined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1600203499866	Marionette	INFO	Stopped listening on port 49263
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ "-no-remote" "-profile" "C:\\Users\\ZHENGX~1\\AppData\\Local\\Temp\\rust_mozprofilebnKKBf"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600060322817	Marionette	INFO	Listening on port 49683
+1600060323137	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.google.ca/adsense/search/async-ads.js, line 39: uncaught exception: google.ads.search.Ads: a is null
+JavaScript error: https://www.glassdoor.com/jobs-ux-app/static/js/gd-jx-core-bottom-en-CA.js?v=f7237b3s8b, line 1: ReferenceError: separatePreferencesTreatment is not defined
+JavaScript error: https://www.glassdoor.com/jobs-ux-app/static/js/gd-jx-core-bottom-en-CA.js?v=f7237b3s8b, line 1: ReferenceError: separatePreferencesTreatment is not defined
+JavaScript error: https://www.glassdoor.com/jobs-ux-app/static/js/gd-jx-core-bottom-en-CA.js?v=f7237b3s8b, line 1: ReferenceError: separatePreferencesTreatment is not defined
+JavaScript error: https://www.glassdoor.com/jobs-ux-app/static/js/gd-jx-core-bottom-en-CA.js?v=f7237b3s8b, line 1: ReferenceError: separatePreferencesTreatment is not defined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Parent 9196, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1600203500976	Marionette	INFO	Stopped listening on port 49683
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
